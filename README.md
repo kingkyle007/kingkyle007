@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingkyle007
+- 👋 Hi, I’m Oyekunle
 - 👀 I’m interested in learning how to be a developer 
 - 🌱 I’m currently learning Data Analytics 
 - 📫 How to reach me, you can email me on @abubakrioyelude@gmail.com 
